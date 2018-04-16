@@ -10,5 +10,6 @@ namespace DAL.Abstract
     public interface IUserRepository
     {
         UserProfile AddUserProfile(UserProfile userProfile);
+        IQueryable<UserProfile> GetAllUsers(bool isActiv = true);
     }
 }

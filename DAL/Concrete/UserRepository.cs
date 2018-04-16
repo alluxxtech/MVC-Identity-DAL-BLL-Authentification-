@@ -21,5 +21,13 @@ namespace DAL.Concrete
             _context.SaveChanges();
             return userProfile;
         }
+
+        public IQueryable<UserProfile> GetAllUsers(bool isActiv = true)
+        {
+            var list = _context.Set<UserProfile>()
+                .Where(up=>up.IsActiv || up.IsActiv == isActiv)
+                .AsQueryable();
+            return list;
+        }
     }
 }
