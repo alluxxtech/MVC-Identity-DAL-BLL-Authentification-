@@ -46,12 +46,13 @@ namespace BLL.Services
             builder.Register<IDataProtectionProvider>(c => _app.GetDataProtectionProvider()).InstancePerRequest();
 
 
-            //Типи з дала
+            //Типи з DAL
             builder.RegisterType<UserRepository>().As<IUserRepository>().InstancePerRequest();
             builder.RegisterType<CategoryRepository>().As<ICategoryRepository>().InstancePerRequest();
 
             //Тип з BLL
             builder.RegisterType<AccountProvider>().As<IAccountProvider>().InstancePerRequest();
+            builder.RegisterType<UserProvider>().As<IUserProvider>().InstancePerDependency();
 
             base.Load(builder);
         }

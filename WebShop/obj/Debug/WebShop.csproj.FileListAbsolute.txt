@@ -75,3 +75,4 @@ C:\Users\Sergiy\documents\visual studio 2017\Projects\3HourGroup(Identity+DAL+BL
 C:\Users\Sergiy\documents\visual studio 2017\Projects\3HourGroup(Identity+DAL+BLL)\WebShop\obj\Debug\WebShop.csproj.CoreCompileInputs.cache
 C:\Users\Sergiy\documents\visual studio 2017\Projects\3HourGroup(Identity+DAL+BLL)\WebShop\obj\Debug\WebShop.dll
 C:\Users\Sergiy\documents\visual studio 2017\Projects\3HourGroup(Identity+DAL+BLL)\WebShop\obj\Debug\WebShop.pdb
+C:\Users\Sergiy\documents\visual studio 2017\Projects\3HourGroup(Identity+DAL+BLL)\WebShop\obj\Debug\WebShop.csproj.CopyComplete

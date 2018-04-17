@@ -52,3 +52,4 @@ C:\Users\Sergiy\documents\visual studio 2017\Projects\3HourGroup(Identity+DAL+BL
 C:\Users\Sergiy\documents\visual studio 2017\Projects\3HourGroup(Identity+DAL+BLL)\BLL\bin\Debug\System.Web.WebPages.Razor.xml
 C:\Users\Sergiy\documents\visual studio 2017\Projects\3HourGroup(Identity+DAL+BLL)\BLL\obj\Debug\BLL.dll
 C:\Users\Sergiy\documents\visual studio 2017\Projects\3HourGroup(Identity+DAL+BLL)\BLL\obj\Debug\BLL.pdb
+C:\Users\Sergiy\documents\visual studio 2017\Projects\3HourGroup(Identity+DAL+BLL)\BLL\obj\Debug\BLL.csproj.CopyComplete

@@ -15,5 +15,5 @@ c:\users\sergiy\documents\visual studio 2017\Projects\3HourGroup(Identity+DAL+BL
 c:\users\sergiy\documents\visual studio 2017\Projects\3HourGroup(Identity+DAL+BLL)\DAL\obj\Debug\DAL.Migrations.Addfirstmigration.resources
 c:\users\sergiy\documents\visual studio 2017\Projects\3HourGroup(Identity+DAL+BLL)\DAL\obj\Debug\DAL.csproj.GenerateResource.Cache
 c:\users\sergiy\documents\visual studio 2017\Projects\3HourGroup(Identity+DAL+BLL)\DAL\obj\Debug\DAL.Migrations.addUserProfile.resources
-C:\Users\Sergiy\documents\visual studio 2017\Projects\3HourGroup(Identity+DAL+BLL)\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
 C:\Users\Sergiy\documents\visual studio 2017\Projects\3HourGroup(Identity+DAL+BLL)\DAL\obj\Debug\DAL.Migrations.Addtablecategory.resources
+C:\Users\Sergiy\documents\visual studio 2017\Projects\3HourGroup(Identity+DAL+BLL)\DAL\obj\Debug\DAL.csproj.CopyComplete
